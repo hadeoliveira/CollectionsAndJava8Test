@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Henrique A. Oliveira\Documents\Projects\Alura\Collections and Java8\.metadata\.plugins\org.eclipse.jdt.core
-3545219082.index
-1607421755.index
-3460880079.index
